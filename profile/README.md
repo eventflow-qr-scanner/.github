@@ -1,14 +1,14 @@
-# 🎟️ Eventix – Event Management & Ticketing Platform
+# 🎟️ EventFlow – Event Management & Ticketing Platform
 
-Eventix is a modern, powerful event management and ticketing system built with **Laravel**, designed to help organizers create, manage, and sell tickets for events of all sizes — from small workshops to large conferences.
+EventFlow is a modern, powerful event management and ticketing system built with **Laravel**, designed to help organizers create, manage, and sell tickets for events of all sizes — from small workshops to large conferences.
 
-Developed and maintained by **Somnest**, Eventix focuses on simplicity, performance, and real-world usability.
+Developed and maintained by **Somnest**, EventFlow focuses on simplicity, performance, and real-world usability.
 
 ---
 
 ## 🚀 Overview
 
-Eventix provides an all-in-one solution for:
+EventFlow provides an all-in-one solution for:
 - Event creation and management
 - Ticket pricing and quantity control
 - Secure attendee check-in using QR codes
@@ -52,14 +52,14 @@ The system is designed to be **easy to install**, **easy to configure**, and **r
 
 ## 🛠️ Installation
 
-Eventix includes a **guided web-based installer**.
+EventFlow includes a **guided web-based installer**.
 
 ### Basic Steps
 1. Upload files to your server
 2. Configure `.env` (APP_URL, database credentials)
 3. Visit `/install`
 4. Follow the installation wizard
-5. Complete setup and start using Eventix
+5. Complete setup and start using EventFlow
 
 Detailed installation instructions are available in the **documentation**.
 
@@ -82,13 +82,13 @@ Comprehensive documentation is included with the project, covering:
 
 ## 🔑 License
 
-Eventix is distributed as a **commercial product** via Envato.
+EventFlow is distributed as a **commercial product** via Envato.
 
 - License Types: **Regular** & **Extended**
 - Purchase code activation is **not required** in the current version
 - License enforcement may be introduced in future releases
 
-Please ensure you comply with Envato’s license terms when using Eventix in production.
+Please ensure you comply with Envato’s license terms when using EventFlow in production.
 
 ---
 
